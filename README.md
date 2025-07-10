@@ -83,7 +83,7 @@
   <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-302922?style=flat-square&logo=Serverless&logoColor=white" />
 </p>
 
-<h1>🌎 What I de best 🔥</h1>
+<h1>🌎 What I do best 🔥</h1>
 <p>
   
 <h4>• Scalable AI powered SaaS & Fast MVP Development</h4>
