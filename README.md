@@ -3,15 +3,12 @@
 <!-- <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/> -->
 
 <p aligh="left">
-  <p>I am AI SaaS Developer</p>
-  <p>💡&nbsp;As a seasoned AI SaaS Developer and two times part of the VC funded backed startups, I’ve spent 8+ years designing AI-driven products that scale. My niche? Turning complex ideas into lean, market-winning SaaS platforms, automation tools, and intelligent systems. 😜</p>
-  
+  <p>❤️&nbsp;I am a Full Stack AI Developer with 5+ years of experience delivering scalable web applications, AI-powered solutions, and cloud-native platforms. 😜
 
- 💼 $500K+ raised by startups I’ve built for\
- 📱 Digital SaaS products serving 1M+ monthly active users\
- 🏃‍♂️&nbsp;AI-powered software and marketing solutions that cut costs, boost efficiency, and scale businesses fast. \
- 🤝 80% of my clients become long-term partners\
- 💬&nbsp;Feel free to reach out to me for some interesting discussion and new ideas.
+  With proven expertise in Full-stack development, Generative AI, and Agentic AI, I combine backend engineering, modern frontend development, LLMs, LangChain, RAG Pipelines, AI agent frameworks, and database design to bring ideas to production.
+
+  🚀 I help startups, product teams, and businesses turn cutting-edge AI ideas into production-grade, scalable applications that deliver measurable business impact. 🌱
+  </p>
 
 </p>
 <br>
