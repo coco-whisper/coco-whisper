@@ -87,7 +87,7 @@
 </p>
 
 <h1>🏆 GitHub Trophies</h1>
-![](https://github-profile-trophy.vercel.app/?username=daveoval&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src = "./githubTrophies.svg" />
 <p>
   
 <h4>𝐼 𝒷𝑒𝓁𝒾𝑒𝓋𝑒 𝒜𝐼 𝓈𝒽𝑜𝓊𝓁𝒹 𝓌𝑜𝓇𝓀 𝒻𝑜𝓇 𝒽𝓊𝓂𝒶𝓃𝓈 — 𝓃𝑜𝓉 𝓇𝑒𝓅𝓁𝒶𝒸𝑒 𝓉𝒽𝑒𝓂. 𝑀𝓎 𝓈𝓎𝓈𝓉𝑒𝓂𝓈 𝒶𝓊𝑔𝓂𝑒𝓃𝓉 𝓉𝑒𝒶𝓂𝓈, 𝓇𝑒𝒹𝓊𝒸𝑒 𝓉𝑜𝒾𝓁, 𝒶𝓃𝒹 𝓈𝒸𝒶𝓁𝑒 𝒾𝓃𝓉𝑒𝓁𝓁𝒾𝑔𝑒𝓃𝒸𝑒 — 𝓇𝑒𝓈𝓅𝑜𝓃𝓈𝒾𝒷𝓁𝓎.</h4>
