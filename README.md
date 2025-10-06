@@ -86,15 +86,10 @@
   </span>
 </p>
 
-<h1>🌎 What I do best 🔥</h1>
+<h1>🏆 GitHub Trophies</h1>
 <p>
   
-<h4>• Scalable AI powered SaaS & Fast MVP Development</h4>
-<h4>• Python/FastAPI Backends with AI/ML Integration</h4>
-<h4>• SaaS Automation solutions for Marketing
-<h4>• Growth & Digital Marketing (GHL & CRM & ERP Solutions)</h4>
-<h4>• Real Time and Custom Analytics Dashboard</h4>
-<h4>• Custom AI Agents & Custom Chatbot</h4>
+<h4>𝐼 𝒷𝑒𝓁𝒾𝑒𝓋𝑒 𝒜𝐼 𝓈𝒽𝑜𝓊𝓁𝒹 𝓌𝑜𝓇𝓀 𝒻𝑜𝓇 𝒽𝓊𝓂𝒶𝓃𝓈 — 𝓃𝑜𝓉 𝓇𝑒𝓅𝓁𝒶𝒸𝑒 𝓉𝒽𝑒𝓂. 𝑀𝓎 𝓈𝓎𝓈𝓉𝑒𝓂𝓈 𝒶𝓊𝑔𝓂𝑒𝓃𝓉 𝓉𝑒𝒶𝓂𝓈, 𝓇𝑒𝒹𝓊𝒸𝑒 𝓉𝑜𝒾𝓁, 𝒶𝓃𝒹 𝓈𝒸𝒶𝓁𝑒 𝒾𝓃𝓉𝑒𝓁𝓁𝒾𝑔𝑒𝓃𝒸𝑒 — 𝓇𝑒𝓈𝓅𝑜𝓃𝓈𝒾𝒷𝓁𝓎.</h4>
 
 <table>
   <tr>
