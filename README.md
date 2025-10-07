@@ -7,9 +7,9 @@
   <td width="60%">
   ❤️&nbsp;I am a Full Stack AI Developer with 5+ years of experience delivering scalable web applications, AI-powered solutions, and cloud-native platforms. 😜
 
-  With proven expertise in Full-stack development, Generative AI, and Agentic AI, I combine backend engineering, modern frontend development, LLMs, LangChain, RAG Pipelines, AI agent frameworks, and database design to bring ideas to production.
+  With proven expertise in Full-stack development, Generative AI, and Agentic AI, I combine backend engineering, modern frontend development, LLMs, LangChain, RAG Pipeline, AI agent frameworks, and database design to bring ideas to production.
 
-  🚀 I help startups, product teams, and businesses turn cutting-edge AI ideas into production-grade, scalable applications that deliver measurable business impact. 🌱
+  🚀 I help startups, product teams, and businesses turn cutting-edge AI ideas into production-grade, scalable applications that deliver measurable business impact.🌱
   </td>
   <td width="35%"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
 </table>
