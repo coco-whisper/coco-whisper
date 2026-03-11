@@ -5,11 +5,11 @@
 <table>
   <tr>
   <td width="60%">
-  ❤️&nbsp;I’m a Full Stack Developer with years of hands-on experience building scalable SaaS platforms, AI-powered applications, and cloud-native systems using React, Next.js, TypeScript, Node.js, Python (FastAPI/Django), .NET, and Laravel. I now work AI-first using tools like Cursor, Claude Code, and Copilot. 🧠
+  ❤️&nbsp;I’m a Full Stack Developer with years of hands-on experience building scalable SaaS platforms, AI-powered applications, and cloud-native systems using React, Next.js, TypeScript, Node.js, Python (FastAPI/Django), .NET, and Laravel. I now work AI-first using tools like Cursor, Claude Code, and Copilot. 🧠\
 
   Also with proven expertise in Full-stack development, Generative AI, and Agentic AI, I combine backend engineering, modern frontend development, LLMs, LangChain, RAG Pipelines, chatbots, AI agents, and database design to bring ideas to production.
 
-  🚀 I help startups, product teams, and businesses turn cutting-edge AI ideas into production-grade, scalable applications that deliver measurable business impact.🌱
+  🚀 I help startups, product teams, and businesses turn cutting-edge AI ideas into production-grade, scalable applications that deliver business impact.🌱
   </td>
   <td width="35%"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
 </table>
